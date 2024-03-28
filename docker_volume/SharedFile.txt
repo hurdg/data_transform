@@ -1,0 +1,1 @@
+Test file in folder that is shared between docker container and OS
